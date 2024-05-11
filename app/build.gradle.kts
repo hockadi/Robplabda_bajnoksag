@@ -40,7 +40,7 @@ dependencies {
     implementation ("com.google.firebase:firebase-auth")
     implementation ("com.google.firebase:firebase-firestore:21.4.3")
     implementation ("com.google.android.gms:play-services-auth:21.1.0")
-    implementation ("com.android.support:multidex:1.0.3")
+    //implementation ("com.android.support:multidex:1.0.3")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
