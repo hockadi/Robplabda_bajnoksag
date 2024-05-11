@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Roplabda_bajnoksag</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_adress">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Tefefonszám</string>
+    <string name="match_description">Meccs leírása</string>
+    <string name="signInAsGuest">Bejelentkezés vendégként</string>
+    <string name="signinWithGoogle">Bejelentkezés google fiókkal</string>
+    <string name="default_web_client_id">116619270482-4u1k889fchp57olugb1e7s80b8o4tb8n.apps.googleusercontent.com</string>
+    <string name="match_placeholder">Match placeholder</string>
+    <string name="match_time_placeholder">Match time placeholder</string>
+    <string name="buy_ticket">Jegyvásárlás</string>
+    <string name="search">Keresés</string>
+    <string name="settings">Beállítások</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="view">Nézet</string>
+    <string name="cart">Kosár</string>
+    <string name="delete">Törlés</string>
+    <string name="openCamera">Kamera megnyitása</string>
+    <string name="juneMatches">Júniusi meccsek</string>
+    <string name="all_matches">Az összes meccs</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="match_item_names">
+        <item>Japán-Amerikai Egyesült Államok</item>
+        <item>Amerikai Egyesült Államok-Lengyelország</item>
+        <item>Amerikai Egyesült Államok-Olaszország</item>
+        <item>Amerikai Egyesült Államok-Szlovénia</item>
+        <item>Argentína-Brazília</item>
+        <item>Franciaország-Olaszország</item>
+        <item>Japán-Lengyelország</item>
+    </string-array>
+
+    <string-array name="match_item_desc">
+        <item>Május</item>
+        <item>Június</item>
+        <item>Június</item>
+        <item>Július</item>
+        <item>Július</item>
+        <item>Augusztus</item>
+        <item>Augusztus</item>
+    </string-array>
+
+    <array name="match_images">
+        <item>@drawable/japanamerika</item>
+        <item>@drawable/amerikalenygel</item>
+        <item>@drawable/amerikaolasz</item>
+        <item>@drawable/amerikaszlovenia</item>
+        <item>@drawable/argentinabrazil</item>
+        <item>@drawable/franciaolasz</item>
+        <item>@drawable/japanlengyel</item>
+    </array>
+
+    <array name="match_prices">
+        <item>7700 Vbucks</item>
+        <item>9950 Vbucks</item>
+        <item>8200 Vbucks</item>
+        <item>9500 Vbucks</item>
+        <item>11300 Vbucks</item>
+        <item>8800 Vbucks</item>
+        <item>10500 Vbucks</item>
+    </array>
+</resources>

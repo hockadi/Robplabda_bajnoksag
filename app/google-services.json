@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116619270482",
+    "project_id": "roplabdabajnoksag-9d6cd",
+    "storage_bucket": "roplabdabajnoksag-9d6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116619270482:android:8f06e8c87c9b88123ac28b",
+        "android_client_info": {
+          "package_name": "com.example.roplabda_bajnoksag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116619270482-lho4rnv7vku98q0am3uqm83v6bhb22js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roplabda_bajnoksag",
+            "certificate_hash": "26076050e53df444fe4d6b1a786de7189c27c1e9"
+          }
+        },
+        {
+          "client_id": "116619270482-4u1k889fchp57olugb1e7s80b8o4tb8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MtW5sQX7cRazKWUb7dSnn7wj8plmhLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116619270482-4u1k889fchp57olugb1e7s80b8o4tb8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
